@@ -1,8 +1,8 @@
-<div style="text-align: center;">
-  <img src="https://drive.google.com/uc?id=1dXL_qbcRfm0pxXUqS72uSjMY5WfNshkP" alt="Hi 👋, I'm Shruti Thakur" style="width: 100%; max-width: 80px; height:400px;">
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1dXL_qbcRfm0pxXUqS72uSjMY5WfNshkP" alt="Hi 👋, I'm Shruti Thakur" style="width: 80%; max-width: 80px; height:300px;">
 </div>
 
-<h2 align="center"">Code with determination, debug with patience, and never give up until it works.</h2>
+<h2 align="center">Code with determination, debug with patience, and never give up until it works.</h2>
 <h3>A Brief Introduction:</h3>
 <ol>
   <li>👩🏻‍💻 Passionate and humble 3rd-year Computer Science and Engineering student.</li>
