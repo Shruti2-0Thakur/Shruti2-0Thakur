@@ -1,4 +1,4 @@
-### Hello, I`m
+### Hello, I`m 👋
 <div align="center">
 <!--   <img src="https://drive.google.com/uc?id=1dXL_qbcRfm0pxXUqS72uSjMY5WfNshkP" alt="Hi 👋, I'm Shruti Thakur" style="width: 80%; max-width: 80px; height:300px;"> -->
   <img src="hero.png" alt="Hi 👋, I'm Shruti Thakur" style="width: 100%; ">
@@ -22,7 +22,7 @@
  -->
 
 <h2 align="center">Code with determination, debug with patience, and never give up until it works.</h2>
-<h3>A Brief Introduction:</h3>
+<h3>🙋‍♀️ A Brief Introduction:</h3>
 <ol>
   <li>👩🏻‍💻 Passionate and humble 3rd-year Computer Science and Engineering student.</li>
   <li>🚀 Thrive on solving programming challenges.</li>
@@ -37,7 +37,7 @@
 </ol>
 
 
-# Skills
+# 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
    <h4>Languages</h4>
@@ -46,5 +46,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expressjs,react,mysql,git,github,vscode,mongodb,dotnet" />
   </a>
 </p>
+
 
 <br>
