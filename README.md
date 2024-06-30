@@ -23,7 +23,7 @@
  -->
 
 <h2 align="center">Code with determination, debug with patience, and never give up until it works.</h2>
-# 🙋‍♀️ A Brief Introduction:
+<h3> 🙋‍♀️ A Brief Introduction:<h3/>
 <ol>
   <li>👩🏻‍💻 Passionate and humble 3rd-year Computer Science and Engineering student.</li>
   <li>🚀 Thrive on solving programming challenges.</li>
